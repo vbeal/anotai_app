@@ -27,3 +27,9 @@ python -m venv venv
 ```bash
  pip install flet
 ```
+
+### 4. Rodar nosso main.py
+
+```bash
+ flet run main.py
+```
